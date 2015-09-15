@@ -1,0 +1,23 @@
+{
+  "name": "redis-lua-bridge",
+  "version": "0.0.1",
+  "description": "Transparently build lazily loaded LUA scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bajix/redis-lua-bridge.git"
+  },
+  "keywords": [
+    "LUA"
+  ],
+  "author": "Thomas Sieverding (Thomas@bajix.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bajix/redis-lua-bridge/issues"
+  },
+  "homepage": "https://github.com/Bajix/redis-lua-bridge#readme",
+  "devDependencies": {}
+}
